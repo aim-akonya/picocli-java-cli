@@ -5,7 +5,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.aim.app</groupId>
-	<artifactId>ProjectSetupTemplate</artifactId>
+	<artifactId>PicocliCli</artifactId>
 	<packaging>jar</packaging>
 	<version>0.1.0</version>
 
@@ -33,7 +33,7 @@
 
 
 	<build>
-		<finalName>ProjectSetupTemplate</finalName>
+		<finalName>PicocliCli</finalName>
 		<!-- surefire plugin -->
 		<plugins>
 			<plugin>
