@@ -1,2 +1,3 @@
-# MavenAppStarter
-Starter template for maven projects
+# cli apps imlpementations with picolci
+
+## checksum cli
